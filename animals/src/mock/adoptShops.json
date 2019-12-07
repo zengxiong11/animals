@@ -1,0 +1,725 @@
+{
+    "goods": [
+      {
+        "name": "优惠",
+        "icon": "https://fuss10.elemecdn.com/b/91/8cf4f67e0e8223931cd595dc932fepng.png",
+        "foods": [
+          {
+            "name": "泰迪沐浴露",
+            "price": 16,
+            "oldPrice": "",
+            "description": "狗狗洗澡，沐浴杀菌",
+            "sellCount": 91,
+            "rating": 100,
+            "info": "立白狗狗除臭剂室内去味杀菌宠物消毒液猫咪猫砂尿骚除臭喷雾香水",
+            "icon": "//img.alicdn.com/imgextra/i3/573480038/O1CN01p0RMuP1C9Rca18NTX_!!0-saturn_solar.jpg_220x220.jpg_.webp",
+            "image": "//img.alicdn.com/imgextra/i3/573480038/O1CN01p0RMuP1C9Rca18NTX_!!0-saturn_solar.jpg_220x220.jpg_.webp",
+            "images": [
+              "//img.alicdn.com/imgextra/i3/573480038/O1CN01p0RMuP1C9Rca18NTX_!!0-saturn_solar.jpg_220x220.jpg_.webp",
+              "//img.alicdn.com/imgextra/i3/573480038/O1CN01p0RMuP1C9Rca18NTX_!!0-saturn_solar.jpg_220x220.jpg_.webp",
+              "//img.alicdn.com/imgextra/i3/573480038/O1CN01p0RMuP1C9Rca18NTX_!!0-saturn_solar.jpg_220x220.jpg_.webp"
+            ]
+          },
+          {
+            "name": "狗狗外出水壶",
+            "price": 12,
+            "oldPrice": "",
+            "description": "随行水杯便携式喝水器",
+            "sellCount": 86,
+            "rating": 100,
+            "info": "狗狗外出水壶",
+            "icon": "//img.alicdn.com/imgextra/i2/106192011/O1CN01X6UtsI1Qj53oMjl1e_!!0-saturn_solar.jpg_220x220.jpg_.webp",
+            "image": "//img.alicdn.com/imgextra/i2/106192011/O1CN01X6UtsI1Qj53oMjl1e_!!0-saturn_solar.jpg_220x220.jpg_.webp",
+            "images": [
+              "//img.alicdn.com/imgextra/i2/106192011/O1CN01X6UtsI1Qj53oMjl1e_!!0-saturn_solar.jpg_220x220.jpg_.webp",
+              "//img.alicdn.com/imgextra/i2/106192011/O1CN01X6UtsI1Qj53oMjl1e_!!0-saturn_solar.jpg_220x220.jpg_.webp",
+              "//img.alicdn.com/imgextra/i2/106192011/O1CN01X6UtsI1Qj53oMjl1e_!!0-saturn_solar.jpg_220x220.jpg_.webp"
+            ]
+          },
+          {
+            "name": "训厕神器",
+            "price": 4,
+            "oldPrice": "",
+            "description": " 破损包赔 拍就送20必备",
+            "sellCount": 84,
+            "rating": 100,
+            "info": "八宝酱菜八宝酱菜八宝酱菜八宝酱菜八宝酱菜",
+            "icon": "//img.alicdn.com/imgextra/i2/56976864/O1CN01hwB1BE20Zl9ntkK6c_!!0-saturn_solar.jpg_220x220.jpg_.webp",
+            "image": "//img.alicdn.com/imgextra/i2/56976864/O1CN01hwB1BE20Zl9ntkK6c_!!0-saturn_solar.jpg_220x220.jpg_.webp"
+          },
+          {
+            "name": "狗狗磨牙棒",
+            "price": 14,
+            "oldPrice": "",
+            "description": "洁齿除口臭零食金毛幼犬小型狗咬",
+            "sellCount": 188,
+            "rating": 96,
+            "info": "",
+            "icon": "//img.alicdn.com/imgextra/i1/99950765/O1CN011YXitt1HWPYu63zki_!!0-saturn_solar.jpg_220x220.jpg_.webp",
+            "image": "//img.alicdn.com/imgextra/i1/99950765/O1CN011YXitt1HWPYu63zki_!!0-saturn_solar.jpg_220x220.jpg_.webp"
+          },
+          {
+            "name": "宠物航空箱",
+            "price": 17,
+            "oldPrice": "",
+            "description": "猫咪空运箱托运箱狗狗运输大号笼",
+            "sellCount": 101,
+            "rating": 78,
+            "info": "猫咪空运箱托运箱狗狗运输大号笼",
+            "icon": "//img.alicdn.com/imgextra/i4/1217006027738745471/TB2axW7nCJjpuFjy0FdXXXmoFXa_!!0-saturn_solar.jpg_220x220.jpg_.webp",
+            "image": "//img.alicdn.com/imgextra/i4/1217006027738745471/TB2axW7nCJjpuFjy0FdXXXmoFXa_!!0-saturn_solar.jpg_220x220.jpg_.webp"
+          }
+        ]
+      },
+      {
+        "name": "折扣",
+        "icon": "https://fuss10.elemecdn.com/0/6a/05b267f338acfeb8bd682d16e836dpng.png",
+        "foods": [
+          {
+            "name": "宠物猫碗",
+            "price|10-20": 20,
+            "oldPrice": "",
+            "description": "双碗自动饮水狗碗狗盆猫盆猫咪用品",
+            "sellCount": 43,
+            "rating": 92,
+            "info": "",
+            "icon": "//img.alicdn.com/imgextra/i4/123874375/O1CN01yIioIj1iBnLwm3K2y_!!0-saturn_solar.jpg_220x220.jpg_.webp",
+            "image": "//img.alicdn.com/imgextra/i4/123874375/O1CN01yIioIj1iBnLwm3K2y_!!0-saturn_solar.jpg_220x220.jpg_.webp"
+          },
+          {
+            "name": "狗轮椅后肢宠物代步车",
+            "price": 16,
+            "oldPrice": "",
+            "description": "残疾狗狗后腿辅助",
+            "sellCount": 29,
+            "rating": 100,
+            "info": "",
+            "icon": "//img.alicdn.com/imgextra/i3/124072098/O1CN01bbjotk1RMvVmtpKen_!!0-saturn_solar.jpg_220x220.jpg_.webp",
+            "image": "//img.alicdn.com/imgextra/i3/124072098/O1CN01bbjotk1RMvVmtpKen_!!0-saturn_solar.jpg_220x220.jpg_.webp"
+          },
+          {
+            "name": "好主人成猫粮",
+            "price": 11,
+            "oldPrice": "",
+            "description": " 英短蓝猫室内猫通用海洋鱼味",
+            "sellCount": 15,
+            "rating": 100,
+            "info": "",
+            "icon": "//img.alicdn.com/imgextra/i2/47445726/O1CN0151uCNB1sAYRd6wTNU_!!0-saturn_solar.jpg_220x220.jpg_.webp",
+            "image": "//img.alicdn.com/imgextra/i2/47445726/O1CN0151uCNB1sAYRd6wTNU_!!0-saturn_solar.jpg_220x220.jpg_.webp"
+          }
+        ]
+      },
+      {
+        "name": "萌宠用品",
+        "foods": [
+          {
+            "name": "狗狗嘴套狗口罩",
+            "price": 29,
+            "oldPrice": 36,
+            "description": "防咬防叫器大型犬止吠器防乱",
+            "sellCount": 17,
+            "rating": 100,
+            "info": "防咬防叫器大型犬止吠器防乱",
+            "icon": "//img.alicdn.com/imgextra/i1/95454128/O1CN01hobYaz1gMfWVVPgwm_!!0-saturn_solar.jpg_220x220.jpg_.webp",
+            "image": "//img.alicdn.com/imgextra/i1/95454128/O1CN01hobYaz1gMfWVVPgwm_!!0-saturn_solar.jpg_220x220.jpg_.webp"
+          },
+          {
+            "name": "月销三千!优质宠物模特",
+            "price": 14,
+            "oldPrice": 36,
+            "description": "专业图片视频制作",
+            "sellCount": 17,
+            "rating": 100,
+            "info": "",
+            "icon": "//img.alicdn.com/imgextra/i2/124226488/TB2R_Yhc3HqK1RjSZFEXXcGMXXa_!!0-saturn_solar.jpg_220x220.jpg_.webp",
+            "image": "//img.alicdn.com/imgextra/i2/124226488/TB2R_Yhc3HqK1RjSZFEXXcGMXXa_!!0-saturn_solar.jpg_220x220.jpg_.webp"
+          },
+          {
+            "name": "猫包透明宠物背包",
+            "price": 10,
+            "oldPrice": "",
+            "description": "外出便携太空宠物舱包猫笼",
+            "sellCount": 81,
+            "rating": 91,
+            "info": "外出便携太空宠物舱包猫笼",
+            "icon": "//img.alicdn.com/imgextra/i1/160780065/O1CN01X9oreW1CLoILpqsdc_!!0-saturn_solar.jpg_220x220.jpg_.webp",
+            "image": "//img.alicdn.com/imgextra/i1/160780065/O1CN01X9oreW1CLoILpqsdc_!!0-saturn_solar.jpg_220x220.jpg_.webp"
+          }
+        ]
+      },
+      {
+        "name": "宠物衣服",
+        "foods": [
+          {
+            "name": "狗狗泰迪比熊猫猫",
+            "price": 14,
+            "oldPrice": "",
+            "description": "衣服加厚款四",
+            "sellCount": 188,
+            "rating": 96,
+            "info": "",
+            "ratings": [
+              {
+                "username": "3******c",
+                "rateTime": 1469281964000,
+                "rateType": 0,
+                "text": "",
+                "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+              },
+              {
+                "username": "2******3",
+                "rateTime": 1469271264000,
+                "rateType": 0,
+                "text": "",
+                "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+              },
+              {
+                "username": "3******b",
+                "rateTime": 1469261964000,
+                "rateType": 1,
+                "text": "",
+                "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+              }
+            ],
+            "icon": "//img.alicdn.com/imgextra/i4/16736801/O1CN016PlppO206uDNp6nL3_!!0-saturn_solar.jpg_220x220.jpg_.webp",
+            "image": "//img.alicdn.com/imgextra/i4/16736801/O1CN016PlppO206uDNp6nL3_!!0-saturn_solar.jpg_220x220.jpg_.webp"
+          },
+          {
+            "name": "宠物衣服",
+            "price": 10,
+            "oldPrice": "",
+            "description": "衣服",
+            "sellCount": 33,
+            "rating": 100,
+            "info": "",
+            "ratings": [
+              {
+                "username": "3******c",
+                "rateTime": 1469281964000,
+                "rateType": 0,
+                "text": "",
+                "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+              },
+              {
+                "username": "2******3",
+                "rateTime": 1469271264000,
+                "rateType": 0,
+                "text": "",
+                "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+              },
+              {
+                "username": "3******b",
+                "rateTime": 1469261964000,
+                "rateType": 0,
+                "text": "",
+                "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+              }
+            ],
+            "icon": "//img.alicdn.com/imgextra/i3/95841369/O1CN01vNeDSY1Lz2mUe8Pq1_!!0-saturn_solar.jpg_220x220.jpg_.webp",
+            "image": "//img.alicdn.com/imgextra/i3/95841369/O1CN01vNeDSY1Lz2mUe8Pq1_!!0-saturn_solar.jpg_220x220.jpg_.webp"
+          },
+          {
+            "name": "比优米小狗狗衣服",
+            "price": 10,
+            "oldPrice": "",
+            "description": "小型犬泰迪博美比熊衣服秋",
+            "sellCount": 124,
+            "rating": 85,
+            "info": "",
+            "ratings": [
+              {
+                "username": "3******c",
+                "rateTime": 1469281964000,
+                "rateType": 1,
+                "text": "没啥味道",
+                "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+              },
+              {
+                "username": "2******3",
+                "rateTime": 1469271264000,
+                "rateType": 1,
+                "text": "很一般啊",
+                "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+              },
+              {
+                "username": "3******b",
+                "rateTime": 1469261964000,
+                "rateType": 0,
+                "text": "",
+                "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+              }
+            ],
+            "icon": "//img.alicdn.com/imgextra/i4/294790034/O1CN01BY5v0n1C7c1nFgzQS_!!0-saturn_solar.jpg_220x220.jpg_.webp",
+            "image": "//img.alicdn.com/imgextra/i4/294790034/O1CN01BY5v0n1C7c1nFgzQS_!!0-saturn_solar.jpg_220x220.jpg_.webp"
+          }
+        ]
+      },
+      {
+        "name": "萌宠食品",
+        "foods": [
+          {
+            "name": "领格狗狗每日肉粒",
+            "price": 8,
+            "oldPrice": 10,
+            "description": "10袋装幼犬训练鸡肉牛肉",
+            "sellCount": 15,
+            "rating": 100,
+            "info": "10袋装幼犬训练鸡肉牛肉",
+            "icon": "//img.alicdn.com/imgextra/i1/99950765/O1CN01uQlsPw1HWPYtbxBBZ_!!0-saturn_solar.jpg_220x220.jpg_.webp",
+            "image": "//img.alicdn.com/imgextra/i1/99950765/O1CN01uQlsPw1HWPYtbxBBZ_!!0-saturn_solar.jpg_220x220.jpg_.webp"
+          }
+        ]
+      },
+      {
+        "name": "萌宠营养",
+        "foods": [
+          {
+            "name": "宠物零食鲣鱼鲭鱼营",
+            "price": 4,
+            "oldPrice": "",
+            "description": "猫海吱吱小鱼花猫咪",
+            "sellCount": 84,
+            "rating": 100,
+            "info": "猫海吱吱小鱼花猫咪",
+            "icon": "//img.alicdn.com/imgextra/i3/118227561/O1CN01ZZR4oG25izDyb5qX4_!!0-saturn_solar.jpg_220x220.jpg_.webp",
+            "image": "//img.alicdn.com/imgextra/i3/118227561/O1CN01ZZR4oG25izDyb5qX4_!!0-saturn_solar.jpg_220x220.jpg_.webp"
+          },
+          {
+            "name": "宠物零食烘干鸡肉",
+            "price": 9,
+            "oldPrice": "",
+            "description": "硬丝泰迪金毛阿拉斯加狗狗",
+            "sellCount": 28,
+            "rating": 100,
+            "info": "硬丝泰迪金毛阿拉斯加狗狗",
+            "icon": "//img.alicdn.com/imgextra/i3/464770177/O1CN01rz8UOk1DB6fpPkQ2R_!!0-saturn_solar.jpg_220x220.jpg_.webp",
+            "image": "//img.alicdn.com/imgextra/i3/464770177/O1CN01rz8UOk1DB6fpPkQ2R_!!0-saturn_solar.jpg_220x220.jpg_.webp"
+          }
+        ]
+      },
+      {
+        "name": "萌宠礼包",
+        "foods": [
+          {
+            "name": "狗狗零食大礼包",
+            "price": 37,
+            "oldPrice": "",
+            "description": "法斗柯基宠物磨牙棒幼犬牛肉",
+            "sellCount": 3,
+            "rating": 100,
+            "info": "",
+            "icon": "//img.alicdn.com/imgextra/i4/245500034/O1CN01fx6R561C7c2Jjqert_!!0-saturn_solar.jpg_220x220.jpg_.webp",
+            "image": "//img.alicdn.com/imgextra/i4/245500034/O1CN01fx6R561C7c2Jjqert_!!0-saturn_solar.jpg_220x220.jpg_.webp"
+          },
+          {
+            "name": "凡妈私厨招牌雪花牛肉粒",
+            "price": 31,
+            "oldPrice": "",
+            "description": "美毛狗零食比熊泰迪",
+            "sellCount": 12,
+            "rating": 100,
+            "info": "",
+            "icon": "//img.alicdn.com/imgextra/i3/121712100/O1CN01gA0OLG1RNqJFIkg9j_!!0-saturn_solar.jpg_220x220.jpg_.webp",
+            "image": "//img.alicdn.com/imgextra/i3/121712100/O1CN01gA0OLG1RNqJFIkg9j_!!0-saturn_solar.jpg_220x220.jpg_.webp"
+          }
+        ]
+      },
+      {
+        "name": "宠物饮料",
+        "foods": [
+          {
+            "name": "ZEAL新西兰进口宠物牛奶全脂零乳糖易吸收",
+            "price": 6,
+            "oldPrice": "",
+            "description": "",
+            "sellCount": 1,
+            "rating": "",
+            "info": "",
+            "ratings": [],
+            "icon": "//img.alicdn.com/imgextra/i4/364840132/O1CN01Ugbzu71CqUqoPY1jR_!!0-saturn_solar.jpg_220x220.jpg_.webp",
+            "image": "//img.alicdn.com/imgextra/i4/364840132/O1CN01Ugbzu71CqUqoPY1jR_!!0-saturn_solar.jpg_220x220.jpg_.webp"
+          },
+          {
+            "name": "卫仕宠物阿拉斯加狗用乳钙片通用",
+            "price": 6,
+            "oldPrice": "",
+            "description": "",
+            "sellCount": 7,
+            "rating": 100,
+            "info": "",
+            "icon": "//img.alicdn.com/imgextra/i3/67462115/O1CN01CYSAxX1RUiFbKsWXr_!!0-saturn_solar.jpg_220x220.jpg_.webp",
+            "image": "//img.alicdn.com/imgextra/i3/67462115/O1CN01CYSAxX1RUiFbKsWXr_!!0-saturn_solar.jpg_220x220.jpg_.webp"
+          },
+          {
+            "name": "VC无限橙果汁",
+            "price": 8,
+            "oldPrice": 10,
+            "description": "",
+            "sellCount": 15,
+            "rating": 100,
+            "info": "",
+            "icon": "//img.alicdn.com/imgextra/i3/26538289/O1CN01rdSyhO2B6PXIha7K3_!!0-saturn_solar.jpg_220x220.jpg_.webp",
+            "image": "//img.alicdn.com/imgextra/i3/26538289/O1CN01rdSyhO2B6PXIha7K3_!!0-saturn_solar.jpg_220x220.jpg_.webp"
+          }
+        ]
+      },
+      {
+        "name": "宠物药品",
+        "foods": [
+          {
+            "name": "VetriScience关节宝",
+            "price": 10,
+            "oldPrice": "",
+            "description": "狗狗腿瘸",
+            "sellCount": 229,
+            "rating": 100,
+            "ratings": [
+              {
+                "username": "3******c",
+                "rateTime": 1469281964000,
+                "rateType": 0,
+                "text": "速诺猫鼻支治疗药感冒药宠物速诺片猫狗口炎",
+                "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+              },
+              {
+                "username": "2******3",
+                "rateTime": 1469271264000,
+                "rateType": 0,
+                "text": "",
+                "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+              },
+              {
+                "username": "3******b",
+                "rateTime": 1469261964000,
+                "rateType": 1,
+                "text": "",
+                "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+              }
+            ],
+            "icon": "//img.alicdn.com/imgextra/i3/129702282/O1CN01kWsDkM1SjCOTmsyI4_!!0-saturn_solar.jpg_220x220.jpg_.webp",
+            "image": "//img.alicdn.com/imgextra/i3/129702282/O1CN01kWsDkM1SjCOTmsyI4_!!0-saturn_solar.jpg_220x220.jpg_.webp"
+          },
+          {
+            "name": "速诺猫鼻支治疗药",
+            "price": 9,
+            "oldPrice": "",
+            "description": "感冒药宠物速诺片猫狗口炎",
+            "sellCount": 91,
+            "rating": 100,
+            "info": "",
+            "ratings": [
+              {
+                "username": "3******c",
+                "rateTime": 1469281964000,
+                "rateType": 0,
+                "text": "",
+                "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+              },
+              {
+                "username": "2******3",
+                "rateTime": 1469271264000,
+                "rateType": 0,
+                "text": "",
+                "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+              },
+              {
+                "username": "3******b",
+                "rateTime": 1469261964000,
+                "rateType": 0,
+                "text": "",
+                "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+              }
+            ],
+            "icon": "//img.alicdn.com/imgextra/i4/14727935/O1CN017Z0lFt28UHLlLOBvW_!!0-saturn_solar.jpg_220x220.jpg_.webp",
+            "image": "//img.alicdn.com/imgextra/i4/14727935/O1CN017Z0lFt28UHLlLOBvW_!!0-saturn_solar.jpg_220x220.jpg_.webp"
+          },
+          {
+            "name": "雷米高狗狗体内驱虫",
+            "price": 12,
+            "oldPrice": "",
+            "description": "猫咪驱虫药犬用幼犬泰",
+            "sellCount": 86,
+            "rating": 100,
+            "info": "",
+            "ratings": [
+              {
+                "username": "3******c",
+                "rateTime": 1469281964000,
+                "rateType": 0,
+                "text": "",
+                "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+              },
+              {
+                "username": "2******3",
+                "rateTime": 1469271264000,
+                "rateType": 0,
+                "text": "",
+                "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+              },
+              {
+                "username": "3******b",
+                "rateTime": 1469261964000,
+                "rateType": 0,
+                "text": "",
+                "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+              }
+            ],
+            "icon": "//img.alicdn.com/imgextra/i2/125935859/O1CN01gnZ2NB1t9T7HVCwaj_!!0-saturn_solar.jpg_220x220.jpg_.webp",
+            "image": "//img.alicdn.com/imgextra/i2/125935859/O1CN01gnZ2NB1t9T7HVCwaj_!!0-saturn_solar.jpg_220x220.jpg_.webp"
+          }
+        ]
+      }
+    ],
+    "ratings": [
+      {
+        "username": "3******c",
+        "rateTime": 1469281964000,
+        "deliveryTime": 30,
+        "score": 5,
+        "rateType": 0,
+        "text": "不错,粥很好喝,我经常吃这一家,非常赞,以后也会常来吃,强烈推荐.",
+        "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+        "recommend": [
+          "南瓜粥",
+          "皮蛋瘦肉粥",
+          "扁豆焖面",
+          "娃娃菜炖豆腐",
+          "牛肉馅饼"
+        ]
+      },
+      {
+        "username": "2******3",
+        "rateTime": 1469271264000,
+        "deliveryTime": "",
+        "score": 4,
+        "rateType": 0,
+        "text": "服务态度不错",
+        "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+        "recommend": [
+          "扁豆焖面"
+        ]
+      },
+      {
+        "username": "3******b",
+        "rateTime": 1469261964000,
+        "score": 3,
+        "rateType": 1,
+        "text": "",
+        "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+        "recommend": []
+      },
+      {
+        "username": "1******c",
+        "rateTime": 1469261864000,
+        "deliveryTime": 20,
+        "score": 5,
+        "rateType": 0,
+        "text": "良心店铺",
+        "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+        "recommend": []
+      },
+      {
+        "username": "2******d",
+        "rateTime": 1469251264000,
+        "deliveryTime": 10,
+        "score": 4,
+        "rateType": 0,
+        "text": "",
+        "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+        "recommend": []
+      },
+      {
+        "username": "9******0",
+        "rateTime": 1469241964000,
+        "deliveryTime": 70,
+        "score": 1,
+        "rateType": 1,
+        "text": "送货速度蜗牛一样",
+        "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+        "recommend": []
+      },
+      {
+        "username": "d******c",
+        "rateTime": 1469231964000,
+        "deliveryTime": 30,
+        "score": 5,
+        "rateType": 0,
+        "text": "很喜欢的粥店",
+        "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+        "recommend": []
+      },
+      {
+        "username": "2******3",
+        "rateTime": 1469221264000,
+        "deliveryTime": "",
+        "score": 4,
+        "rateType": 0,
+        "text": "量给的还可以",
+        "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+        "recommend": []
+      },
+      {
+        "username": "3******8",
+        "rateTime": 1469211964000,
+        "deliveryTime": "",
+        "score": 3,
+        "rateType": 1,
+        "text": "",
+        "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+        "recommend": []
+      },
+      {
+        "username": "a******a",
+        "rateTime": 1469201964000,
+        "deliveryTime": "",
+        "score": 4,
+        "rateType": 0,
+        "text": "孩子喜欢吃这家",
+        "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+        "recommend": [
+          "南瓜粥"
+        ]
+      },
+      {
+        "username": "3******3",
+        "rateTime": 1469191264000,
+        "deliveryTime": "",
+        "score": 4,
+        "rateType": 0,
+        "text": "粥挺好吃的",
+        "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+        "recommend": []
+      },
+      {
+        "username": "t******b",
+        "rateTime": 1469181964000,
+        "deliveryTime": "",
+        "score": 3,
+        "rateType": 1,
+        "text": "",
+        "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+        "recommend": []
+      },
+      {
+        "username": "f******c",
+        "rateTime": 1469171964000,
+        "deliveryTime": 15,
+        "score": 5,
+        "rateType": 0,
+        "text": "送货速度很快",
+        "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+        "recommend": []
+      },
+      {
+        "username": "k******3",
+        "rateTime": 1469161264000,
+        "deliveryTime": "",
+        "score": 4,
+        "rateType": 0,
+        "text": "",
+        "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+        "recommend": []
+      },
+      {
+        "username": "u******b",
+        "rateTime": 1469151964000,
+        "deliveryTime": "",
+        "score": 4,
+        "rateType": 0,
+        "text": "下雨天给快递小哥点个赞",
+        "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+        "recommend": []
+      },
+      {
+        "username": "s******c",
+        "rateTime": 1469141964000,
+        "deliveryTime": "",
+        "score": 4,
+        "rateType": 0,
+        "text": "好",
+        "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+        "recommend": []
+      },
+      {
+        "username": "z******3",
+        "rateTime": 1469131264000,
+        "deliveryTime": "",
+        "score": 5,
+        "rateType": 0,
+        "text": "吃了还想再吃",
+        "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+        "recommend": []
+      },
+      {
+        "username": "n******b",
+        "rateTime": 1469121964000,
+        "deliveryTime": "",
+        "score": 3,
+        "rateType": 1,
+        "text": "发票开的不对",
+        "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+        "recommend": []
+      },
+      {
+        "username": "m******c",
+        "rateTime": 1469111964000,
+        "deliveryTime": 30,
+        "score": 5,
+        "rateType": 0,
+        "text": "好吃",
+        "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+        "recommend": []
+      },
+      {
+        "username": "l******3",
+        "rateTime": 1469101264000,
+        "deliveryTime": 40,
+        "score": 5,
+        "rateType": 0,
+        "text": "还不错吧",
+        "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+        "recommend": []
+      },
+      {
+        "username": "3******o",
+        "rateTime": 1469091964000,
+        "deliveryTime": "",
+        "score": 2,
+        "rateType": 1,
+        "text": "",
+        "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+        "recommend": []
+      },
+      {
+        "username": "3******p",
+        "rateTime": 1469081964000,
+        "deliveryTime": "",
+        "score": 4,
+        "rateType": 0,
+        "text": "很喜欢的粥",
+        "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+        "recommend": []
+      },
+      {
+        "username": "o******k",
+        "rateTime": 1469071264000,
+        "deliveryTime": "",
+        "score": 5,
+        "rateType": 0,
+        "text": "",
+        "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+        "recommend": []
+      },
+      {
+        "username": "k******b",
+        "rateTime": 1469061964000,
+        "deliveryTime": "",
+        "score": 4,
+        "rateType": 0,
+        "text": "",
+        "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+        "recommend": []
+      }
+    ]
+  }
